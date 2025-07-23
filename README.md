@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
-<h3 >A Witcher, Backend architect, and Cloud & DevOps specialist. I build, automate, and scale systems with Node.js/Typescript, Go, Python, AWS, Azure, GCP and Kubernetes. Obsessed with performance, clean code, and innovation. Always hustling, always learning. On a mission to create badass solutions and level up the tech game—globally.</h3>
+<h3 >A witcher, Backend architect, and Cloud & DevOps specialist. I build, automate, and scale systems with Node.js/Typescript, Go, Python, AWS, Azure, GCP and Kubernetes. Obsessed with performance, clean code, and innovation. Always hustling, always learning. On a mission to create badass solutions and level up the tech game—globally.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=witcher7&label=Profile%20views&color=0e75b6&style=flat" alt="witcher7" /> </p>
 
