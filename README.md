@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=witcher7" alt="witcher7" /></a> </p>
 
-- 🔭 I’m currently working on [Canary-Deployment-via-ArgoCD-Istio-with-Observability](https://github.com/witcher7/Project-1-Canary-Deployment-via-ArgoCD-Istio-with-Observability-Stack-on-EKS.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
