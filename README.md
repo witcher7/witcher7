@@ -11,11 +11,16 @@
   <img src="https://komarev.com/ghpvc/?username=witcher7&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<h4 align="center">
+I build, automate, and scale badass systems with <b>Golang, Python, AWS, Azure, GCP, and Kubernetes</b>.<br/>
+Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustling, always learning.
+</h4>
+
 ---
 
 ## 🏆 Trophies & Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=witcher7&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=witcher7&theme=algolia&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="trophies"/>
 </p>
 
 ---
@@ -31,16 +36,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witcher7&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </p>
 
-<!-- 🔥 Contribution Snake -->
-## 🐍 Contribution Snake
+<!-- Optional: activity graph (looks slick) -->
 <p align="center">
-  <img src="https://github.com/witcher7/witcher7/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=witcher7&theme=github-compact&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
 
 ## 🧰 Languages and Tools
 <p align="center">
+  <!-- row 1 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -51,6 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
 </p>
 <p align="center">
+  <!-- row 2 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
@@ -59,6 +65,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+</p>
+<p align="center">
+  <!-- row 3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ---
