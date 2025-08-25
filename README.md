@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
 <h4 >Infrastructure Hashira, Backend Architect, and Cloud & DevOps Specialist. I build, automate, and scale systems with <b>Golang, Python, AWS, Azure, GCP and Kubernetes</b>. Obsessed with performance, clean code, and innovation. Always hustling, always learning. On a mission to create badass solutions and level up the tech game—globally.</h4>
 
-<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="witcher7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=witcher7" alt="witcher7" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me: gulati.r7121@gmail.com</h3>
 <p align="left">
