@@ -28,15 +28,24 @@ Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustl
 ---
 
 ## ⚔️ Stats Like a True Hashira
-<p align="center">
+<div align="center">
+
+<table>
+<tr>
+<td>
   <img src="https://github-readme-stats.vercel.app/api?username=witcher7&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-</p>
-<p align="center">
+</td>
+<td>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=witcher7&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-<p align="center">
+</td>
+<td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witcher7&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <!-- Optional: activity graph (looks slick) -->
 <p align="center">
