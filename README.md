@@ -94,7 +94,8 @@ Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustl
 ## 🌐 Connect
 <p align="center">
 📧 <b>gulati.r7121@gmail.com</b>
-  <a href= "https://www.linkedin.com/in/rishabh-gulati7121/">LinkedIN</a>
+  <br>
+  <a href= "https://www.linkedin.com/in/rishabh-gulati7121/">LinkedIN -> RG7</a>
 </p>
 
 ---
