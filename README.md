@@ -92,7 +92,7 @@ Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustl
 ---
 
 ## 🌐 Connect
-<p align="center">
+<p >
   📧 <b>Email:</b> gulati.r7121@gmail.com <br>
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rishabh-gulati7121/">RG7</a> <br>
   🐙 <b>GitHub:</b> <a href="https://github.com/witcher7">witcher7</a> <br>
