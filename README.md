@@ -21,7 +21,7 @@ Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustl
 ## 🏆 Trophies & Achievements
 <p align="center">
   <img
-    src="https://github-trophies.vercel.app/?username=lucthienphong1120"
+    src="https://github-trophies.vercel.app/?username=witcher7"
     alt="GitHub Profile Trophies"
   />
 </p>
