@@ -12,7 +12,7 @@
 </p>
 
 <h4 align="center">
-I build, automate, and scale badass systems with <b>Typescript/Javascript, NodeJS, NestJS, Golang, Python, AWS, Azure, GCP, and Kubernetes</b>.<br/>
+I build, automate, and scale badass systems with <b> TS/JS/NodeJS/NestJS, Golang, Python, AWS, Azure, GCP, and Kubernetes</b>.<br/>
 Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustling, always learning.
 </h4>
 
