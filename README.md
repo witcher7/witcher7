@@ -103,3 +103,7 @@ Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustl
 
 ## ⚡ Fun Fact
 > “Breaking clusters, fixing them faster ⚡. Scaling like a Hashira 🥷.”
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
