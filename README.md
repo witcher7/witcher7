@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
-<h3 align="center">🚀 Infrastructure Hashira · Backend Architect · Cloud & DevOps Specialist</h3>
+<h3 align="center">🚀 Infrastructure Hashira · Backend Engineer · Cloud & DevOps Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Infrastructure+Hashira;Backend+Architect;Cloud+%26+DevOps+Specialist;Kubernetes+%7C+AWS+%7C+Azure+%7C+GCP;Golang+%7C+Python+%7C+Node.js;Scaling+things.+Shipping+fast.+Staying+humble." alt="typing banner"/>
