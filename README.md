@@ -18,7 +18,7 @@ I design and build <b>production-grade Data & AI platforms</b> using
 <b>Kubernetes, Airflow, PySpark, Databricks, SQL, and Multi-Cloud (AWS, GCP, Azure)</b>.<br/>
 Focused on scalable pipelines, reproducible ML systems, and boring-but-reliable infrastructure.
 </h4>
-
+![Infra King GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JpcWlyMGU4cWtlcmkzNjJ6MDBhODJvOHptanoxNmszenkzZDdhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D80G19w5FoPuesfoMT/giphy.gif)
 ---
 
 ## 🏆 Trophies & Achievements
