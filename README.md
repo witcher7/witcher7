@@ -68,21 +68,18 @@ Focused on scalable pipelines, reproducible ML systems, and boring-but-reliable 
 <p align="center">
   <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-airflow.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/>
-</p>
-
-<!-- 4. Platform & Containers -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
 </p>
 
 <!-- 5. Cloud Providers -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40"/>
 </p>
 
 <!-- 6. Databases & Caching -->
@@ -91,12 +88,7 @@ Focused on scalable pipelines, reproducible ML systems, and boring-but-reliable 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
-</p>
-
-<!-- 7. AI / ML -->
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
 </p>
 
 <!-- 8. Observability & DevOps -->
