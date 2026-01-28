@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
-<h3 align="center">🧠 Data Platform & AI Engineer · Lakehouse Architect · Cloud-Native Systems Builder</h3>
+<h3 align="center">🧠 Data Platform Engineer · Cloud-Native Systems Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=1000&lines=Data+Platform+%26+AI+Engineer;Lakehouse+Architect;Kubernetes+for+Data+%26+ML;Airflow+%7C+PySpark+%7C+Databricks;AWS+%7C+GCP+%7C+Azure;Building+AI+Systems+that+Survive+Production" alt="typing banner"/>
@@ -56,42 +56,45 @@ Focused on scalable pipelines, reproducible ML systems, and boring-but-reliable 
 ## 🧰 Data Platform & AI Stack
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+  <!-- Core Data -->
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Databricks_Logo.png" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BA8E-seeklogo.com.png" width="40" height="40"/>
 </p>
 
 <p align="center">
-  <!-- Data & AI -->
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Databricks_Logo.png" width="40"/>
-  <img src="https://seeklogo.com/images/A/alteryx-logo-DB7B3E2B25-seeklogo.com.png" width="40"/>
+  <!-- Platform & Containers -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
 </p>
 
 <p align="center">
-  <!-- Platform -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+  <!-- Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <!-- BI & Analytics -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/A/alteryx-logo-DB7B3E2B25-seeklogo.com.png" width="40" height="40"/>
 </p>
 
 <p align="center">
   <!-- Observability -->
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ## 🚀 What I Build
-- End-to-end **AI & Data platforms** on Kubernetes  
+- End-to-end **Data platforms** on Kubernetes  
 - **Airflow-orchestrated** Spark pipelines  
 - **Databricks Lakehouse** architectures  
-- ML training → feature engineering → model serving pipelines  
 - Multi-cloud data platforms with reproducibility & observability  
 
 ---
