@@ -1,93 +1,107 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
-<h3 align="center">🚀 Infrastructure Hashira · Backend Engineer · Cloud & DevOps Specialist</h3>
+<h3 align="center">🧠 Data Platform & AI Engineer · Lakehouse Architect · Cloud-Native Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Infrastructure+Hashira;Backend+Architect;Cloud+%26+DevOps+Specialist;Kubernetes+%7C+AWS+%7C+Azure+%7C+GCP;Golang+%7C+Python+%7C+Node.js;Scaling+things.+Shipping+fast.+Staying+humble." alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=1000&lines=Data+Platform+%26+AI+Engineer;Lakehouse+Architect;Kubernetes+for+Data+%26+ML;Airflow+%7C+PySpark+%7C+Databricks;AWS+%7C+GCP+%7C+Azure;Building+AI+Systems+that+Survive+Production" alt="typing banner"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/witcher7?tab=followers"><img src="https://img.shields.io/github/followers/witcher7?style=flat&label=Followers" /></a>
+  <a href="https://github.com/witcher7?tab=followers">
+    <img src="https://img.shields.io/github/followers/witcher7?style=flat&label=Followers" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=witcher7&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <h4 align="center">
-I build, automate, and scale badass systems with <b> TS/JS/NodeJS/NestJS, Golang, Python, AWS, Azure, GCP, and Kubernetes</b>.<br/>
-Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustling, always learning.
+I design and build <b>production-grade Data & AI platforms</b> using  
+<b>Kubernetes, Airflow, PySpark, Databricks, SQL, and Multi-Cloud (AWS, GCP, Azure)</b>.<br/>
+Focused on scalable pipelines, reproducible ML systems, and boring-but-reliable infrastructure.
 </h4>
 
 ---
 
 ## 🏆 Trophies & Achievements
 <p align="center">
-  <img
-    src="https://github-trophies.vercel.app/?username=witcher7"
-    alt="GitHub Profile Trophies"
-  />
+  <img src="https://github-trophies.vercel.app/?username=witcher7" />
 </p>
+
 ---
 
-## ⚔️ Stats Like a True Hashira
+## 📊 Stats of a Platform Engineer
 <div align="center">
-
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=witcher7&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=witcher7&show_icons=true&theme=tokyonight&hide_border=true"/>
 </td>
 <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=witcher7&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=witcher7&theme=tokyonight&hide_border=true"/>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witcher7&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witcher7&layout=compact&theme=tokyonight&hide_border=true"/>
 </td>
 </tr>
 </table>
-
 </div>
 
+---
 
-<!-- Optional: activity graph (looks slick) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=witcher7&theme=github-compact&area=true&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=witcher7&theme=github-compact&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 Data Platform & AI Stack
+
 <p align="center">
-  <!-- row 1 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg" width="40" height="40" style="filter: invert(1);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
 </p>
+
 <p align="center">
-  <!-- row 2 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <!-- Data & AI -->
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Databricks_Logo.png" width="40"/>
+  <img src="https://seeklogo.com/images/A/alteryx-logo-DB7B3E2B25-seeklogo.com.png" width="40"/>
 </p>
+
 <p align="center">
-  <!-- row 3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <!-- Platform -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
 </p>
+
+<p align="center">
+  <!-- Observability -->
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 What I Build
+- End-to-end **AI & Data platforms** on Kubernetes  
+- **Airflow-orchestrated** Spark pipelines  
+- **Databricks Lakehouse** architectures  
+- ML training → feature engineering → model serving pipelines  
+- Multi-cloud data platforms with reproducibility & observability  
+
+---
+
+## 🧠 Engineering Philosophy
+Infrastructure should be boring.  
+Pipelines should be deterministic.  
+AI should be reproducible.  
+
+If your system only works in a notebook, it doesn’t work.
 
 ---
 
@@ -102,7 +116,7 @@ Obsessed with performance ⚡, clean code ✨, and innovation 🧠. Always hustl
 ---
 
 ## ⚡ Fun Fact
-> “Breaking clusters, fixing them faster ⚡. Scaling like a Hashira 🥷.”
+> “I don’t just deploy apps. I build platforms that power data, AI, and decisions.”
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
