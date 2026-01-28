@@ -59,10 +59,6 @@ Focused on scalable pipelines, reproducible ML systems, and boring-but-reliable 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-</p>
-
-<!-- 2. Streaming & Distributed Processing -->
-<p align="center">
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
@@ -70,7 +66,7 @@ Focused on scalable pipelines, reproducible ML systems, and boring-but-reliable 
 
 <!-- 3. Orchestration & Lakehouse -->
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-airflow.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/>
