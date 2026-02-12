@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
-<h3 align="center">🧠 Data Platform Engineer · Cloud-Native Systems Builder · ML/LLMOPS </h3>
+<h3 align="center">🧠 ML & Data Platform Engineer · Cloud-Native Systems Builder </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=1000&lines=Data+Platform+%26+AI+Engineer;Lakehouse+Architect;Kubernetes+for+Data+%26+ML;Airflow+%7C+PySpark+%7C+Databricks;AWS+%7C+GCP+%7C+Azure;Building+AI+Systems+that+Survive+Production" alt="typing banner"/>
