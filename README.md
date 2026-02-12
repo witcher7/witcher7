@@ -75,6 +75,7 @@ When your infra is so solid, even AWS gives you a side-eye of respect.
 
 <!-- 3. Orchestration & Lakehouse -->
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-airflow.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt.svg" width="40"/>
