@@ -66,7 +66,7 @@ When your infra is so solid, even AWS gives you a side-eye of respect.
 <!-- 1. Core Languages & APIs -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21~bgwhite.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/>
