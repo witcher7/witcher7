@@ -15,7 +15,7 @@
 
 <h4 align="center">
 I design and build <b>production-grade ML, LLM, Data & AI platforms</b> using  <br/>
-<b>Kubernetes, Airflow, PySpark, Databricks, SQL, Tensorflow, MLflow and Multi-Cloud (AWS, GCP, Azure)</b>.<br/>
+<b>Python, Golang, FastApi, Grpc, Kubernetes, Airflow, PySpark, Databricks, SQL, Tensorflow, MLflow and Multi-Cloud (AWS, GCP, Azure)</b>.<br/>
 Focused on scalable pipelines, reproducible ML systems, and boring-but-reliable infrastructure.
 </h4>
 
