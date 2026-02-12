@@ -108,6 +108,7 @@ When your infra is so solid, even AWS gives you a side-eye of respect.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" width="40"/>
 </p>
 
 ---
