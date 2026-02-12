@@ -110,14 +110,6 @@ When your infra is so solid, even AWS gives you a side-eye of respect.
 
 ---
 
-## 🚀 What I Build
-- End-to-end **Data platforms** on Kubernetes  
-- **Airflow-orchestrated** Spark pipelines  
-- **Databricks Lakehouse** architectures  
-- Multi-cloud data platforms with reproducibility & observability  
-
----
-
 ## 🧠 Engineering Philosophy
 Infrastructure should be boring.  
 Pipelines should be deterministic.  
