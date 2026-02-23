@@ -15,7 +15,7 @@
 
 <h4 align="center">
 I design and build <b>production-grade ML, LLM, Data & AI platforms</b> using  <br/>
-<b>Python, Golang, FastApi, Grpc, Kubernetes, Airflow, PySpark, Databricks, SQL, Tensorflow, MLflow and Multi-Cloud (AWS, GCP, Azure)</b>.<br/>
+<b>Python, Golang, FastApi, Typescript, Grpc, Kubernetes, Airflow, PySpark, Databricks, SQL, Tensorflow, MLflow and Multi-Cloud (AWS, GCP, Azure)</b>.<br/>
 Focused on scalable pipelines, reproducible ML systems, and boring-but-reliable infrastructure.
 </h4>
 
@@ -68,7 +68,7 @@ When your infra is so solid, even AWS gives you a side-eye of respect.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
 </p>
