@@ -14,7 +14,7 @@
 </p>
 
 <h4 align="center">
-Focused on scalable Data pipelines, reproducible ML/AI systems, and boring-but-reliable infrastructure.
+Focused on scalable Backends, Data pipelines, reproducible ML/AI systems, and boring-but-reliable infrastructure.
 </h4>
 
 ---
