@@ -20,9 +20,7 @@ Focused on scalable Backends, Data pipelines, reproducible ML/AI systems, and bo
 ---
 
 ## 🎯 Infra King Mode Activated
-<div align="center">
 ![Infra King GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JpcWlyMGU4cWtlcmkzNjJ6MDBhODJvOHptanoxNmszenkzZDdhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D80G19w5FoPuesfoMT/giphy.gif)
-</div>
 When your infra is so solid, even AI gives you a side-eye of respect. 
 
 ---
