@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Rishabh Gulati</h1>
-<h3 align="center"> 🧠 Cloud-Native Backend Systems / Platforms  Builder</h3>
+<h3 align="center"> 🧠 Data & ML Systems Engineer | Distributed Platforms Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=1000&lines=Data+Platform+%26+AI+Engineer;Lakehouse+Architect;Kubernetes+for+Data+%26+ML;Airflow+%7C+PySpark+%7C+Databricks;AWS+%7C+GCP+%7C+Azure;Building+AI+Systems+that+Survive+Production" alt="typing banner"/>
@@ -14,12 +14,12 @@
 </p>
 
 <h4 align="center">
-Focused on scalable Backends, Data pipelines, reproducible ML/AI systems, and boring-but-reliable infrastructure.
+Focused on scalable data platforms, reproducible ML pipelines, and production-grade AI infrastructure.
 </h4>
 
 ---
 
-## 🎯 Infra King Mode Activated
+## 🎯 Infra Mode Activated
 ![Infra King GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JpcWlyMGU4cWtlcmkzNjJ6MDBhODJvOHptanoxNmszenkzZDdhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D80G19w5FoPuesfoMT/giphy.gif)
 
 <h4>When your infra is so solid, even AI gives you a side-eye of respect.</h4> 
