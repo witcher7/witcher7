@@ -57,7 +57,7 @@ Focused on scalable data platforms, reproducible ML pipelines, and production-gr
 
 ---
 
-## 🧰 Data Platform & AI Stack
+## 🧰 My Stack
 
 <!-- 1. Core Languages & APIs -->
 <p align="center">
