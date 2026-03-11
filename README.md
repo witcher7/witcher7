@@ -57,7 +57,7 @@ Focused on scalable data platforms, reproducible ML pipelines, and production-gr
 
 ---
 
-## 🧰 My Stack
+## 🧰 ToolBox
 
 <!-- 1. Core Languages & APIs -->
 <p align="center">
