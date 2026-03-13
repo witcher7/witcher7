@@ -3,7 +3,7 @@
 <h3 align="center"> AI/ML & Data Systems Engineer </h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=1000&lines=MLOps+%7C+LLMOps+Specialist;ML+Systems+Engineer;Data+Platform+%26+AI+Engineer;Lakehouse+Architect;Kubernetes+for+Data+%26+ML;Airflow+%7C+PySpark+%7C+Databricks;AWS+%7C+GCP+%7C+Azure;Building+AI+Systems+that+Survive+Production" alt="typing banner"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=1000&lines=MLOps+%7C+LLMOps+%7C+DataOps+Specialist;ML+Systems+Hashira;Data+Platform+%26+AI+Engineer;Lakehouse+Architect;Kubernetes+for+Data+%26+ML;Airflow+%7C+PySpark+%7C+Databricks;AWS+%7C+GCP+%7C+Azure;Building+AI+Systems+that+Survive+Production" alt="typing banner"/>
 </p>
 
 <p align="center">
