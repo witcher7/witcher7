@@ -14,7 +14,7 @@
 </p>
 
 <h4 align="center">
-<q>Focused on scalable data platforms, reproducible ML pipelines, and production-grade AI infrastructure.</q>
+<q>Systems That Scale / Systems That Survive</q>
 </h4>
 
 ---
