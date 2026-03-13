@@ -14,7 +14,7 @@
 </p>
 
 <h4 align="center">
-Focused on scalable data platforms, reproducible ML pipelines, and production-grade AI infrastructure.
+<q>Focused on scalable data platforms, reproducible ML pipelines, and production-grade AI infrastructure.</q>
 </h4>
 
 ---
@@ -115,9 +115,6 @@ Focused on scalable data platforms, reproducible ML pipelines, and production-gr
 Infrastructure should be boring.  
 Pipelines should be deterministic.  
 AI should be reproducible.  
-
-If your system only works in a notebook, it doesn’t work.
-
 ---
 
 ## 🌐 Connect
