@@ -112,9 +112,11 @@
 ---
 
 ## 🧠 Engineering Philosophy
+<em>
 Infrastructure should be boring.  
 Pipelines should be deterministic.  
-AI should be reproducible.  
+AI should be reproducible.
+</em>
 ---
 
 ## 🌐 Connect
