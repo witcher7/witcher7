@@ -19,44 +19,6 @@
 
 ---
 
-## 🎯 Infra Mode Activated
-![Infra King GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JpcWlyMGU4cWtlcmkzNjJ6MDBhODJvOHptanoxNmszenkzZDdhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D80G19w5FoPuesfoMT/giphy.gif)
-
-<h4>When your infra is so solid, even AI gives you a side-eye of respect.</h4> 
----
-
-## 🏆 Trophies & Achievements
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=witcher7"/>
-</p>
-
----
-
-## 📊 Stats of a Platform Engineer
-<div align="center">
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=witcher7&show_icons=true&theme=tokyonight&hide_border=true"/>
-</td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=witcher7&theme=tokyonight&hide_border=true"/>
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witcher7&layout=compact&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=witcher7&theme=github-compact&area=true&hide_border=true"/>
-</p>
-
----
-
 ## 🧰 ToolBox
 
 <!-- 1. Core Languages & APIs -->
