@@ -27,7 +27,7 @@
 
 ## 🏆 Trophies & Achievements
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=witcher7" />
+  <img src="https://github-trophies.vercel.app/?username=witcher7"/>
 </p>
 
 ---
