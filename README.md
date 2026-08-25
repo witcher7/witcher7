@@ -66,7 +66,7 @@
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" width="40"/>
 </p>
