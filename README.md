@@ -29,8 +29,8 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
-   <img src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-ar21~bgwhite.svg" width="40"/>
-   <img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" width="40"/>
+   <img src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" width="40"/>
+   <img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40"/>
  
 </p>
 
@@ -42,8 +42,8 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-ar21~bgwhite.svg" width="40"/>
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21~bgwhite.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
  
 </p>
 
@@ -55,8 +55,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-ar21~bgwhite.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21~bgwhite.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="40"/>
  
 </p>
 
@@ -68,8 +68,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-   <img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-ar21~bgwhite.svg" width="40"/>
-   <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21~bgwhite.svg" width="40"/>
+   <img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-icon.svg" width="40"/>
+   <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40"/>
  
 </p>
 
@@ -81,8 +81,8 @@
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" width="40"/>
-   <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21~bgwhite.svg" width="40"/>
-    <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21~bgwhite.svg" width="40"/>
+   <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" width="40"/>
 </p>
 
 ---
